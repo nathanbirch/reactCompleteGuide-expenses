@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/%7BreactCompleteGuide-expenses%7D/static/css/main.37e6ef8d.chunk.css",
+    "main.js": "/%7BreactCompleteGuide-expenses%7D/static/js/main.5b242b8c.chunk.js",
+    "main.js.map": "/%7BreactCompleteGuide-expenses%7D/static/js/main.5b242b8c.chunk.js.map",
+    "runtime-main.js": "/%7BreactCompleteGuide-expenses%7D/static/js/runtime-main.34b1c82d.js",
+    "runtime-main.js.map": "/%7BreactCompleteGuide-expenses%7D/static/js/runtime-main.34b1c82d.js.map",
+    "static/js/2.3227849f.chunk.js": "/%7BreactCompleteGuide-expenses%7D/static/js/2.3227849f.chunk.js",
+    "static/js/2.3227849f.chunk.js.map": "/%7BreactCompleteGuide-expenses%7D/static/js/2.3227849f.chunk.js.map",
+    "index.html": "/%7BreactCompleteGuide-expenses%7D/index.html",
+    "static/css/main.37e6ef8d.chunk.css.map": "/%7BreactCompleteGuide-expenses%7D/static/css/main.37e6ef8d.chunk.css.map",
+    "static/js/2.3227849f.chunk.js.LICENSE.txt": "/%7BreactCompleteGuide-expenses%7D/static/js/2.3227849f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.34b1c82d.js",
+    "static/js/2.3227849f.chunk.js",
+    "static/css/main.37e6ef8d.chunk.css",
+    "static/js/main.5b242b8c.chunk.js"
+  ]
+}
